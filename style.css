@@ -1,0 +1,29 @@
+html{
+    box-sizing: border-box;
+    display: block;
+}
+
+body{
+    margin: 0;
+}
+
+html, body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    color: black;
+    height: 100%;
+    
+}
+
+header{
+  
+  
+}
+
+.gusnaldi img{
+    float: left;
+width: 100px;
+height:auto;
+margin-left: 5%;
+}
