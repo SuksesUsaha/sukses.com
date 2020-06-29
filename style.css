@@ -165,7 +165,10 @@ ul {
 
 
 
-.penjelasan{margin-left:3% ;}
+.penjelasan{
+    margin-left:3%;
+    margin-top: -9%;
+}
 .visi{margin-left:1% ;}
 .misi{margin-left:1% ;}
 .team{margin-left:1% ;}
@@ -176,7 +179,9 @@ ul {
     margin-left: 5%;
     margin-top: 10px;}
 
-.gusnaldi p{float: left;}
+.gusnaldi p{float: left;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
 
 .melo img{
     clear:left;
@@ -327,3 +332,9 @@ ul {
     }
     
 .twit p{float: left;margin-left: 5%;margin-top: 3%;}
+
+.tagline img{
+    width: 100%;
+    margin-top: -4%;
+    height: 80%;
+}
